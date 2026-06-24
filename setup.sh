@@ -10,4 +10,4 @@ headless = true\n\
 
 pip install gdown
 
-gdown --id 1WpbEOzHIVUuEjOLDSov4VDKxzWlvBbB4 -O similarity.pkl
+gdown "https://drive.google.com/uc?id=1WpbEOzHIVUuEjOLDSov4VDKxzWlvBbB4" -O similarity.pkl
